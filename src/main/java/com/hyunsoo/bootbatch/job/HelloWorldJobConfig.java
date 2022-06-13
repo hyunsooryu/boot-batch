@@ -20,7 +20,6 @@ import org.springframework.context.annotation.Configuration;
 @RequiredArgsConstructor
 public class HelloWorldJobConfig {
 
-    //자동으로 등록되어 있는 Bean인듯 하다.
     private final JobBuilderFactory jobBuilderFactory;
 
     private final StepBuilderFactory stepBuilderFactory;
