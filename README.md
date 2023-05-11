@@ -4,7 +4,7 @@
 2. spring data jpa 
 3. h2 database
 4. thymeleaf
-
+참고 자료 : https://sergeswin.com/394/
 1. 화면 설명: 화면은 간단하다. 텍스트를 넣을 수 있는 빈칸이 있고 shortUrl로 등록하기 버튼이 있다.
 예를 들어,
 빈칸에 http://www.naver.com 을 입력하고, 등록하기 버튼을 누르면 localhost:10010/shortUrl/nvr 과 같은 짧게 만들어진 url을 화면에 뿌려준다.
