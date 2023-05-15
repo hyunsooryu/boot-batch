@@ -29,3 +29,16 @@ DB CRUD 및 알고리즘에 대한 이해를
 종합적으로 평가하여,
 70점 이상 되지않을 경우, 바로 프로젝트를 진행하지 않고,
 해당 shortUrl 프로젝트를 선 진행한다.
+
+
+2주차 과제
+
+1. Application/Json 통신으로 Rest 방식으로 바꿔보자.
+
+2. Interceptor를 활용해서, shortUrl을 생성하려고 들어오는 LongUrl에
+
+ "naver",  "daum", "nate", "google" 이 들어있다면,
+ 
+shortUrl을 생성하지 않고, errorMessage를 client에게 보내보자.
+
+
