@@ -42,3 +42,16 @@ DB CRUD 및 알고리즘에 대한 이해를
 shortUrl을 생성하지 않고, errorMessage를 client에게 보내보자.
 
 
+#모던 자바
+1주차 : Functional Interface
+예습 철저히
+함수형 인터페이스	Descripter	Method
+Predicate	T -> boolean	boolean test(T t)
+Consumer	T -> void	void accept(T t)
+Supplier	() -> T	T get()
+Function<T, R>	T -> R	R apply(T t)
+Comparator	(T, T) -> int	int compare(T o1, T o2)
+Runnable	() -> void	void run()
+Callable	() -> T	V call()
+
+
